@@ -34,7 +34,7 @@ android {
         jvmTarget = "1.8"
     }
     buildFeatures {
-        dataBinding = true
+        viewBinding = true
     }
 }
 
@@ -51,10 +51,6 @@ dependencies {
     implementation ("com.github.bumptech.glide:glide:4.13.2")
 
     implementation ("com.google.android.exoplayer:exoplayer:2.18.4")
-
-    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0")
-    implementation ("androidx.lifecycle:lifecycle-livedata-ktx:2.4.0")
-
 
 
 }

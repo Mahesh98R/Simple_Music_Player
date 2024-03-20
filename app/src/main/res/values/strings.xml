@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Simple Music Player</string>
+    <string name="app_name"> SimpleMusicPlayer</string>
+    <string name="search">search</string>
+    <string name="song_title">Song Name</string>
+    <string name="song_duration">12:00</string>
+    <string name="song_size">3.25 MB</string>
+    <string name="song_name">song Name</string>
 </resources>
