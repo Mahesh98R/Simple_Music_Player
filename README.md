@@ -4,9 +4,9 @@ The app should have a list view that displays all the songs on the device and a 
 
 ## Build with
 
-ExoPlayer - For audio playback.
-MediaStore API - For accessing media files on the device.
-RecyclerView - For displaying the list of music tracks.
+1) ExoPlayer - For audio playback.
+2) MediaStore API - For accessing media files on the device.
+3) RecyclerView - For displaying the list of music tracks.
 
 ## Tool
 Androidstudio
